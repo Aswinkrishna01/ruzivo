@@ -6,10 +6,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<meta name="author" content="mumthaz">
+<meta name="author" content="aswin">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<title>Mumthaz website </title>
+<title>aswin website </title>
 <!--
 Stimulus Template
 http://www.templatemo.com/tm-498-stimulus
